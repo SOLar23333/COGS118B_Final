@@ -1,6 +1,6 @@
 import copy
 import util
-from neuralnet import *
+from network import *
 
 
 def train(model, x_train, y_train, x_valid, y_valid, config):

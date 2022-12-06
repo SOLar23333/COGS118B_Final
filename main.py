@@ -1,8 +1,7 @@
 from numpy import append
-import argparse
 from train import *
-
 from util import append_bias
+import argparse
 
 def main(args):
 
